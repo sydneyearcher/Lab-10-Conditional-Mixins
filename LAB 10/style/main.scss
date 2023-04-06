@@ -1,0 +1,36 @@
+@import 'variable';
+@import 'mixin';
+
+// loops through the circle numbers to generate different styles
+@for $i from 1 through $circle-count {
+  .number-#{$i} {
+    width: $number-size;
+    height: $number-size;
+    border-radius: 50%;
+    margin: 5px;
+    display: inline-block;
+    
+    @if $i % 2 == 0 {
+      background-color: $even-color;
+    } @else {
+      background-color: $odd-color;
+    }
+  }
+}
+
+// Defines styles for container/heading/list
+.container {
+  @include container($container-width, $container-padding);
+  
+  h1 {
+    color: $odd-color;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+}

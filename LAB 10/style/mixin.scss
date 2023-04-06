@@ -1,0 +1,7 @@
+// mixin for container style
+@mixin container($width, $padding) {
+    width: $width;
+    margin: 0 auto;
+    padding: $padding;
+  }
+  

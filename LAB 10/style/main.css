@@ -1,0 +1,105 @@
+.number-1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #dc7fbd;
+}
+
+.number-2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #708be4;
+}
+
+.number-3 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #dc7fbd;
+}
+
+.number-4 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #708be4;
+}
+
+.number-5 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #dc7fbd;
+}
+
+.number-6 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #708be4;
+}
+
+.number-7 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #dc7fbd;
+}
+
+.number-8 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #708be4;
+}
+
+.number-9 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #dc7fbd;
+}
+
+.number-10 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 5px;
+  display: inline-block;
+  background-color: #708be4;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.container h1 {
+  color: #dc7fbd;
+  text-align: center;
+}
+.container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
